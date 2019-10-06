@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Mycin
 
-You can use the [editor on GitHub](https://github.com/MYCIN-IC/Introduction/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Mycin is a Machine learning club of KIET GROUP OF INSTITUTION, and this repository is considered as the projects developed By mycin leads and Core team members. 
+We are having upto 12 members in core teams and 3 leads. 
+We are concern about creating a great environment and community for # Machine Learning ,  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
